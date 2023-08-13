@@ -1,4 +1,4 @@
-# Notes added to make the notebook on Colab closer to the video's content
+# Notes added to make the notebook on Colab closer to the video's content here: https://github.com/nyck33/karpathy-builds-gpt-additional-notes/blob/master/gpt_dev.ipynb
 
 
 # nanogpt-lecture
