@@ -1,3 +1,5 @@
+# Notes added to make the notebook on Colab closer to the video's content
+
 
 # nanogpt-lecture
 
